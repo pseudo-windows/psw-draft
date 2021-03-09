@@ -1,2 +1,2 @@
-# pseudo-windows-draft
-Pseudo Windows' drafts
+# Pseudo Windows draft
+Pseudo Windows' drafts.
