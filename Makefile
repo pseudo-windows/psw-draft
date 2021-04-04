@@ -2,7 +2,7 @@
 # Makefile for OS
 #
 
-NAME = "crasher-0.0.2"
+NAME = "crasher-0.0.3"
 
 
 obj-$(DRIVERS)		+= drivers/
