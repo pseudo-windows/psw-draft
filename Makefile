@@ -9,3 +9,4 @@ obj-$(DRIVERS)		+= drivers/
 obj-$(FS)    += fs/
 obj-$(GAMES)    += games/
 obj-$(INIT)    += init/
+obj-$(MEMORY)    += memory/
