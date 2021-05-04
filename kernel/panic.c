@@ -7,5 +7,6 @@
 
 void panic(void){
     printf(">----- PANIC -----<\n");
+    printf(":(");
     printf("Something happened. No idea what. Oh well. Everything has been lost that was unsaved. Unplug and replug the computer.\n");
 }
